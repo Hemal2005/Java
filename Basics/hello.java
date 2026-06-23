@@ -7,3 +7,17 @@ class Hello
 }
 
 
+// Java Source Code (.java)
+//           ↓
+//       Java Compiler
+//         (javac)
+//           ↓
+//    Bytecode (.class)
+//           ↓
+//           JVM
+//           ↓
+//       Machine Code
+//           ↓
+//       Operating System
+//           ↓
+//         Hardware
