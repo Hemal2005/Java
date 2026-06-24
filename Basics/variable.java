@@ -8,3 +8,4 @@ class Varaible {
 
 //dataType variableName = value;(Syntax of Assiigning a varaible)
 //local variable,instance varaible, global variable,etc...
+// datatypes is of two types primitive(int,float,char,boolean) and no-primitive 
