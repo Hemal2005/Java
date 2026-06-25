@@ -13,3 +13,5 @@ class Type{
 
     }
 }
+
+//another concept named type promotion
